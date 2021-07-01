@@ -53,6 +53,13 @@
         "Mushokuji": "/proxy/api/mangadex/chapter/4fbae462-86a8-4d48-b934-0fdeab971a41/"
       },
       "last_updated": "1615906515"
+    },
+          "36.5": {
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/eV1zFiR/"
+      },
+      "last_updated": "1625139740"
     }
   }
 }
