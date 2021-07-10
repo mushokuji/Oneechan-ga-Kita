@@ -54,12 +54,19 @@
       },
       "last_updated": "1615906515"
     },
-          "36.5": {
+      "36.5": {
       "volume": "2",
       "groups": {
         "Mushokuji": "/proxy/api/imgur/chapter/eV1zFiR/"
       },
       "last_updated": "1625128865"
+    },
+      "37": {
+      "volume": "3",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/QtZA8f7/"
+      },
+      "last_updated": "1625941268"
     }
   }
 }
